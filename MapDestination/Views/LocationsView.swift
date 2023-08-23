@@ -13,15 +13,20 @@ struct LocationsView: View {
     @EnvironmentObject private var vm: LocationsViewModel
     
     var body: some View {
-        ZStack {
-            mapLayer
-                .ignoresSafeArea()
-            
-            VStack {
-                header
-                    .padding()
-                Spacer()
-                locationPreviewStack
+        NavigationView {
+            ZStack {
+                mapLayer
+                    .ignoresSafeArea()
+                
+                VStack {
+                    header
+                        .padding()
+                    Spacer()
+                    locationPreviewStack
+                }
+            }
+            .sheet(item: $vm.sheetLocation) { location in
+                LocationDetailView(location: location)
             }
         }
     }
