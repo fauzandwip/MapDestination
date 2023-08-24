@@ -64,15 +64,17 @@ This following features of the app was made using Swift, SwiftUI, and MapKit wit
 ![screenshot_iPad_dark3](screenshots/iPad_dark_03.png)
 ![screenshot_iPad_dark4](screenshots/iPad_dark_04.png)
 
-# GIF
+# Video Recording
 
 ## iPhone
 
-![iPhone_gif](gif/iPhone_GIF.gif)
+<video autoplay controls>
+    <source src="video/iPhone_Video.mp4" type="video/mp4">
+</video>
 
-## iPad
+<!-- ## iPad -->
 
-![iPad_gif](gif/iPad_GIF.gif)
+<!-- ![iPad_video](gif/iPad_GIF.gif) -->
 
 # Tech Stack
 
