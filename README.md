@@ -64,12 +64,15 @@ This following features of the app was made using Swift, SwiftUI, and MapKit wit
 ![screenshot_iPad_dark3](screenshots/iPad_dark_03.png)
 ![screenshot_iPad_dark4](screenshots/iPad_dark_04.png)
 
-# Video
+# GIF
 
 ## iPhone
 
-![gif](video/iPhone_GIF.gif)
-![gif2](video/iPhone_GIF2.gif)
+![iPhone_gif](gif/iPhone_GIF.gif)
+
+## iPad
+
+![iPad_gif](gif/iPad_GIF.gif)
 
 # Tech Stack
 
