@@ -68,15 +68,8 @@ This following features of the app was made using Swift, SwiftUI, and MapKit wit
 
 ## iPhone
 
-<video width="180" controls>
-<source src="https://gemoo.com/tools/upload-video/share/553220139815952384?codeId=vJ9G5YkLEA6KV&card=553220134002647040" type="video/mp4">
-</video>
-
-## iPad
-
-<video width="360" controls>
-    <source src="video/iPad_Video.mp4" type="video/mp4">
-</video>
+![gif](video/iPhone_GIF.gif)
+![gif2](video/iPhone_GIF2.gif)
 
 # Tech Stack
 
