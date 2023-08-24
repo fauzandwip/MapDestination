@@ -68,13 +68,11 @@ This following features of the app was made using Swift, SwiftUI, and MapKit wit
 
 ## iPhone
 
-<video autoplay controls>
-    <source src="video/iPhone_Video.mp4" type="video/mp4">
-</video>
+![iPhone_gif](gif/iPhone_GIF.gif)
 
-<!-- ## iPad -->
+## iPad
 
-<!-- ![iPad_video](gif/iPad_GIF.gif) -->
+![iPad_gif](gif/iPad_GIF.gif)
 
 # Tech Stack
 
