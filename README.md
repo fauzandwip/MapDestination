@@ -69,7 +69,7 @@ This following features of the app was made using Swift, SwiftUI, and MapKit wit
 ## iPhone
 
 <video width="180" controls>
-<source src="video/iPhone_Video.mp4" type="video/mp4">
+<source src="https://gemoo.com/tools/upload-video/share/553220139815952384?codeId=vJ9G5YkLEA6KV&card=553220134002647040" type="video/mp4">
 </video>
 
 ## iPad
